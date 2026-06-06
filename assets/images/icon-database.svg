@@ -1,0 +1,24 @@
+<svg width="40" height="32" viewBox="0 0 40 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Database Cylinder 1 (Top) -->
+  <path d="M8 8C8 5.79 13.37 4 20 4C26.63 4 32 5.79 32 8C32 10.21 26.63 12 20 12C13.37 12 8 10.21 8 8Z" stroke="url(#gold_grad)" stroke-width="1.5" fill="url(#gold_grad)" fill-opacity="0.1"/>
+  
+  <!-- Database Cylinder 2 (Middle) -->
+  <path d="M8 8V16C8 18.21 13.37 20 20 20C26.63 20 32 18.21 32 16V8" stroke="url(#gold_grad)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 16C8 18.21 13.37 20 20 20C26.63 20 32 18.21 32 16C32 13.79 26.63 12 20 12C13.37 12 8 13.79 8 16Z" fill="url(#gold_grad)" fill-opacity="0.1"/>
+  
+  <!-- Database Cylinder 3 (Bottom) -->
+  <path d="M8 16V24C8 26.21 13.37 28 20 28C26.63 28 32 26.21 32 24V16" stroke="url(#gold_grad)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 24C8 26.21 13.37 28 20 28C26.63 28 32 26.21 32 24C32 21.79 26.63 20 20 20C13.37 20 8 21.79 8 24Z" fill="url(#gold_grad)" fill-opacity="0.1"/>
+
+  <!-- Details/Lines on Cylinders for high-end feel -->
+  <line x1="13" y1="8" x2="16" y2="8" stroke="url(#gold_grad)" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="13" y1="16" x2="16" y2="16" stroke="url(#gold_grad)" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="13" y1="24" x2="16" y2="24" stroke="url(#gold_grad)" stroke-width="1.5" stroke-linecap="round"/>
+
+  <defs>
+    <linearGradient id="gold_grad" x1="8" y1="4" x2="32" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+  </defs>
+</svg>
